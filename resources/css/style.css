@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin: 25px 12px;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 22px auto;
+}
+
+.description {
+  color: gray;
+  font-family: Arial, sans-serif;
+  font-size: 21px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.phone-icon {
+  width: 64px;
+}
+
+footer {
+  padding: 16px;
+  color: gray;
+  text-align: right;
+}
